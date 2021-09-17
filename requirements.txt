@@ -8,6 +8,7 @@ numpy==1.19.5
 #plotly==4.14.3
 #scikit-learn==0.23.2
 #seaborn==0.11.1
+seaborn
 #matplotlib==3.3.4
 matplotlib
 pandas==1.1.2
